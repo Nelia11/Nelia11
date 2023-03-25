@@ -1,4 +1,9 @@
-![Codewars](https://github.r2v.ch/codewars?user=Nelia11&theme=gradient)
+<p align="center" >
+    <a href="LINK TO: WHEN CLICKED">
+      <img src="https://github.r2v.ch/codewars?user=Nelia11&theme=gradient" />
+    </a>
+</p>
+
 <!--
 **Nelia11/Nelia11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
