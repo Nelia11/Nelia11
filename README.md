@@ -1,4 +1,4 @@
-### Hi there 👋
+![Codewars](https://github.r2v.ch/codewars?user=Nelia11&theme=gradient)
 
 <!--
 **Nelia11/Nelia11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
