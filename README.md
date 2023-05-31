@@ -1,7 +1,17 @@
-<p align="center" >
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,mysql,nodejs,git,github,docker,vscode,postman,mongodb"/>
+  </a>
+</p>
+
+<p align="center">
     <a href="LINK TO: WHEN CLICKED">
-      <img src="https://github.r2v.ch/codewars?user=Nelia11&theme=gradient" />
+      <img src="https://www.codewars.com/users/NeliaL/badges/large"/>
     </a>
+</p>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Nelia11&color=green" alt="GitHub Profile Views" />
 </p>
 
 <!--
