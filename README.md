@@ -1,4 +1,10 @@
-<p align="center">
+### [Contribution calendar](#calendar)
+<div id="calendar" align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/Nelia11?chart=3dbar&format=svg" alt="Contributions" />
+</div>
+
+### [Skills](#skills)
+<p id="skills" align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,html,css,mysql,nodejs,git,github,docker,vscode,postman,mongodb"/>
   </a>
