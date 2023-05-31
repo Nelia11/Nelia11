@@ -1,10 +1,10 @@
 ### Contribution calendar
-<div id="calendar" align="center">
+<div align="center">
   <img src="https://ssr-contributions-svg.vercel.app/_/Nelia11?chart=3dbar&format=svg" alt="Contributions" />
 </div>
 
 ### Skills
-<p id="skills" align="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,html,css,mysql,nodejs,git,github,docker,vscode,postman,mongodb"/>
   </a>
@@ -22,7 +22,7 @@
 
 <!--
 **Nelia11/Nelia11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+CatsJuice:  &weeks=30
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
