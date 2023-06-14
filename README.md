@@ -6,7 +6,7 @@
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,mysql,nodejs,git,github,docker,vscode"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,mysql,nodejs,postman,git,github,docker,vscode"/>
   </a>
 </p>
 
