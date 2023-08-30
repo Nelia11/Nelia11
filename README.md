@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nelia</h1>
+<h1 align="center">Hi, I'm Nelia 👋</h1>
 <h3 align="center">I'm a passionate Full-Stack Web Developer in training, currently honing my skills at HackYourFuture Denmark. My journey involves crafting dynamic web applications using technologies like JavaScript, React, Node.js, and MySQL.</h3>
 
 - 🔭 I’m currently working on [meal-sharing app](https://meal-sharing-ulm8.onrender.com/)
