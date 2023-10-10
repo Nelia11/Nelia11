@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nelia 👋</h1>
 <h3 align="center">I'm a passionate Full-Stack Web Developer in training, currently honing my skills at HackYourFuture Denmark. My journey involves crafting dynamic web applications using technologies like JavaScript, React, Node.js, and MySQL.</h3>
 
-- 🔭 I’m currently working on [meal-sharing app](https://meal-sharing-ulm8.onrender.com/)
+- 🔭 I’m currently working on **E-learning app**
 
 - 🌱 I’m currently learning **TypeScript**
 
@@ -23,9 +23,9 @@
 
 ### Contribution calendar
    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/Nelia11?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=mess&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/Nelia11?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=mess&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
-    <img alt="" src="[https://ssr-contributions-svg.vercel.app/_/Nelia11?chart=3dbar&flatten=1&weeks=40&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink](https://ssr-contributions-svg.vercel.app/_/Nelia11?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=mess&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)" >
+    <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/Nelia11?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/Nelia11?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
+    <img alt="" src="[https://ssr-contributions-svg.vercel.app/_/Nelia11?chart=3dbar&flatten=1&weeks=40&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink](https://ssr-contributions-svg.vercel.app/_/Nelia11?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)" >
   </picture>
 
 <p align="center">
