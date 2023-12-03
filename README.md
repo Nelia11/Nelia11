@@ -1,13 +1,15 @@
 <h1 align="center">Hi, I'm Nelia 👋</h1>
-<h3 align="center">I'm a passionate Full-Stack Web Developer in training, currently honing my skills at HackYourFuture Denmark. My journey involves crafting dynamic web applications using technologies like JavaScript, React, Node.js, and MySQL.</h3>
+<h3 align="center">A passionate Frontend Web Developer. My journey involves crafting dynamic web applications using technologies like JavaScript, React, Node.js, and PostgreSQL.</h3>
 
-- 🔭 I’m currently working on **E-learning app**
+- 🔭 I’m currently working on **Events app**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript** ans **Redux**
 
-- 💬 Ask me about **JavaScript and React**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **levit.nelia@icloud.com**
+
+- 📍 Denmark
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,7 +19,7 @@
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,mysql,nodejs,postman,git,github,docker,vscode"/>
+    <img src="https://skillicons.dev/icons?i=redux,typescript,react,js,html,css,mysql,nodejs,postman,git,github,vscode"/>
   </a>
 </p>
 
