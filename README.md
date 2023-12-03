@@ -19,7 +19,7 @@
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redux,typescript,react,js,html,css,mysql,nodejs,postman,git,github,vscode"/>
+    <img src="https://skillicons.dev/icons?i=redux,typescript,react,js,html,css,postgres,mysql,nodejs,postman,git,github,vscode"/>
   </a>
 </p>
 
