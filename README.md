@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Events app**
 
-- 🌱 I’m currently learning **TypeScript** ans **Redux**
+- 🌱 I’m currently learning **TypeScript** and **Redux**
 
 - 💬 Ask me about **React**
 
@@ -16,10 +16,46 @@
 <a href="https://linkedin.com/in/nelia-levit-03144a234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelia-levit-03144a234/" height="30" width="40" /></a>
 </p>
 
-### Skills
-<p align="center">
+
+## Programming Languages
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redux,typescript,react,js,html,css,postgres,mysql,nodejs,postman,git,github,vscode"/>
+    <img src="https://skillicons.dev/icons?i=typescript,js"/>
+  </a>
+</p>
+
+## Frontend Development
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=redux,vite,react,next,styledcomponents,html,css"/>
+  </a>
+</p>
+
+## Backend Development
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
+  </a>
+</p>
+
+## Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+  </a>
+</p>
+
+## Software
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,figma,github,vscode"/>
+  </a>
+</p>
+
+## Other 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git"/>
   </a>
 </p>
 
