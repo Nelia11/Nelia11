@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nelia 👋</h1>
-<h3 align="center">A passionate Frontend Web Developer. My journey involves crafting dynamic web applications using technologies like JavaScript, React, Node.js, and PostgreSQL.</h3>
+<h3 align="center">A passionate Frontend Web Developer. My journey involves crafting dynamic web applications using technologies like JavaScript, React, Node, and Postgres.</h3>
 
 - 🔭 I’m currently working on **Events app**
 
@@ -11,53 +11,40 @@
 
 - 📍 Denmark
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nelia-levit-03144a234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelia-levit-03144a234/" height="30" width="40" /></a>
-</p>
-
+## Connect with me:
+[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" />](https://linkedin.com/in/nelia-levit-03144a234/)
 
 ## Programming Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,js"/>
-  </a>
-</p>
+[<img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript" />](https://www.typescriptlang.org/)
+[<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" />](https://www.javascript.com/)
 
 ## Frontend Development
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redux,vite,react,next,styledcomponents,html,css"/>
-  </a>
-</p>
+[<img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux" />](https://redux.js.org/)
+[<img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" />](https://vitejs.dev/)
+[<img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />](https://react.dev/)
+[<img src="https://skillicons.dev/icons?i=next" alt="Next" title="Next" />](https://nextjs.org/)
+[<img src="https://skillicons.dev/icons?i=styledcomponents" alt="styled-components" title="styled-components" />](https://styled-components.com/)
+[<img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" title="Material UI" />](https://mui.com)
+[<img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" />](https://www.w3schools.com/html/)
+[<img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" />](https://www.w3schools.com/css/)
 
 ## Backend Development
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
-  </a>
-</p>
+[<img src="https://skillicons.dev/icons?i=nodejs" alt="Node" title="Node" />](https://nodejs.org/en)
+[<img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" />](https://expressjs.com/)
+[<img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" />](https://firebase.google.com/)
 
 ## Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-  </a>
-</p>
+[<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" />](https://www.postgresql.org/)
+[<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />](https://mysql.com)
 
 ## Software
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,figma,github,vscode"/>
-  </a>
-</p>
+[<img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" />](https://postman.com)
+[<img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" />](https://www.figma.com/)
+[<img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />](https://github.com/)
+[<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" />](https://code.visualstudio.com/)
 
 ## Other 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git"/>
-  </a>
-</p>
+[<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />](https://git-scm.com/)
 
 ### Contribution calendar
    <picture>
