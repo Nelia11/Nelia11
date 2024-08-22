@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Nelia 👋</h1>
-<h3 align="center">A passionate Frontend Web Developer. My journey involves crafting dynamic web applications using technologies like JavaScript, React, Node, and Postgres.</h3>
+<h3 align="center">A passionate Software Developer. My journey involves crafting dynamic web applications using technologies like JavaScript, React, Node, and Postgres.</h3>
 
 - 🔭 I’m currently working on **Events app**
 
-- 🌱 I’m currently learning **TypeScript** and **Redux**
+- 🌱 I’m currently learning **TypeScript** and **AWS**
 
 - 💬 Ask me about **React**
 
