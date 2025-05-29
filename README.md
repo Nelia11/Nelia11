@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nelia 👋</h1>
+<!-- <h1 align="center">Hi, I'm Nelia 👋</h1>
 <h3 align="center">A passionate Software Developer. My journey involves crafting dynamic web applications using technologies like JavaScript, React, Node, and Postgres.</h3>
 
 - 🌱 I’m currently learning **TypeScript** and **AWS**
@@ -56,7 +56,7 @@
       <img src="https://www.codewars.com/users/NeliaL/badges/large"/>
     </a>
 </p>
-
+-->
 <!--
 **Nelia11/Nelia11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 CatsJuice:  &weeks=30
